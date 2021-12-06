@@ -1,0 +1,23 @@
+#clickable {
+  cursor: pointer;
+}
+
+#hover {
+  cursor: default;
+}
+
+.flexbox-container {
+  margin-top: 3%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.item {
+  width: 100px;
+}
